@@ -55,6 +55,6 @@ Este projeto é parte de um curso de formação em Ciência de Dados, e busca si
 * Python
 * Pandas, NumPy, Matplotlib, Seaborn
 * Google Colab
-* Trello
+* Trello (https://trello.com/b/chpdacNC/projeto-empresa-imobiliaria)
 
 
